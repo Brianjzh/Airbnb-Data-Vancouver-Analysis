@@ -5,6 +5,14 @@ This project leverages Tableau dashboards to analyze Airbnb data, focusing on re
 
 ---
 
+## How to View the Dashboards
+1. Access the dashboards on Tableau Public:
+   - [Review Analysis](https://public.tableau.com/app/profile/brian.zhang1004/viz/2_1-2_4AirbnbAnalysis/2_4-ReviewAnalysis)
+   - [Listing Growth](https://public.tableau.com/app/profile/brian.zhang1004/viz/1_1-1_5AirbnbAnalysis/1_2-ListingGrowth)
+2. Interact with the filters to explore neighborhood-specific insights.
+
+---
+
 ## Dashboards
 ### **1. Average Rating Across Vancouver Neighborhoods**
 - **Description**:
@@ -74,11 +82,6 @@ This project leverages Tableau dashboards to analyze Airbnb data, focusing on re
 3. **Data Range**:
    - Analysis restricted to listings priced below $1,000 to avoid outliers.
 
----
 
-## How to View the Dashboards
-1. Access the dashboards on Tableau Public:
-   - [Review Analysis](https://public.tableau.com/app/profile/brian.zhang1004/viz/2_1-2_4AirbnbAnalysis/2_4-ReviewAnalysis)
-   - [Listing Growth](https://public.tableau.com/app/profile/brian.zhang1004/viz/1_1-1_5AirbnbAnalysis/1_2-ListingGrowth)
-2. Interact with the filters to explore neighborhood-specific insights.
+
 
